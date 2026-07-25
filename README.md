@@ -100,6 +100,11 @@ Incluye indicadores clave (KPIs) y visualizaciones para analizar:
 
 ---
 
+## Modelo estrella
+
+<img width="1140" height="728" alt="Captura de pantalla 2026-07-25 133158" src="https://github.com/user-attachments/assets/ae1e5030-d631-43fa-9987-033ad1d8be6d" />
+
+
 ## PRINCIPALES HALLAZGOS
 
 - Las ventas aumentaron significativamente de 2020 a 2021.
