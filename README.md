@@ -44,10 +44,10 @@ Se implementó un **modelo estrella (star schema)** compuesto por una tabla de h
 
 ## Tablas de dimensiones
 
--DimDate
--DimProduct
--DimRetailer
--DimLocation
+- DimDate
+- DimProduct
+- DimRetailer
+- DimLocation
 
 ---
 
@@ -138,6 +138,5 @@ Se desarrolló un dashboard interactivo que permite analizar el comportamiento d
 ## AUTOR
 
 **Verónica Sandoval**
-- GitHub:
-- LinkedIn: 
-Un dashboard interactivo que permita entender el comportamiento de las ventas y apoyar decisiones estratégicas.
+- GitHub: https://github.com/Veronica2704
+- LinkedIn: www.linkedin.com/in/verónica-yuritzi-sandoval-pérez-1b3423372
